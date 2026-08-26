@@ -101,7 +101,9 @@ We use these as **rough benchmarks**, not as a spec to replicate — our scaled-
 - [ ] Prototype test log & simulation results
 - [ ] Literature review write-up
 
-## 6. Repository Structure
+## 6. Individual Scopes 
+
+## 7. Repository Structure
 
 > Placeholder — update once the repo layout is finalized.
 
@@ -114,12 +116,12 @@ We use these as **rough benchmarks**, not as a spec to replicate — our scaled-
 └── README.md
 ```
 
-## 7. References
+## 8. References
 
 - Shan, J.; Miccinesi, L.; Beni, A.; Pagnini, L.; Cioncolini, A.; Pieraccini, M. *A Review of Foreign Object Debris Detection on Airport Runways: Sensors and Algorithms.* Remote Sensing 2025, 17, 225.
 - Krestenitis, M.; Petropoulos, A.; Koulalis, I.; Stipanovic, I.; Skaric Palic, S.; Ioannidis, K.; Vrochidis, S. *Digitalization and Automation of Runway Inspection Using Unmanned Aerial Vehicles.* Sensors 2026, 26, 1100.
 
-## 8. Team & Contact
+## 9. Team & Contact
 
 > Placeholder — add team member names, roles, supervisor, and contact details.
 
