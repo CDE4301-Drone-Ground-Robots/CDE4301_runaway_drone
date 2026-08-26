@@ -5,7 +5,7 @@
 
 #  Drone-Vision Foreign Object Debris (FOD) Detection on Airport Runways
 
-### Draft Report for CDE 4301
+### Draft Report for CDE4301
 
 _In Collaboration with the Republic of Singapore Air Force (RSAF) and Robotics & Autonomous Systems Innovation and Development (RAiD)_  
 _Innovation & Design Programme | College of Design and Engineering | National University of Singapore_
