@@ -1,10 +1,29 @@
-# Drone-Vision Foreign Object Debris (FOD) Detection on Airport Runways
+<div align="center">
 
-**Final Year Project — Feasibility Study & Budget Allocation Prediction**
+<!-- NUS LOGO DISPLAY -->
+<img src="https://nus.edu.sg/images/default-source/identity-images/NUS_logo_full-horizontal.jpg" alt="NUS Logo" width="600" />
 
-> 🚧 **Status: Early stage.** This README describes the *initial scope* of the project. It will be revised as the prototype, simulations, and findings develop.
+#  Drone-Vision Foreign Object Debris (FOD) Detection on Airport Runways
+
+### Draft Report for CDE 4301
+
+_In Collaboration with the Republic of Singapore Air Force (RSAF) and Robotics & Autonomous Systems Innovation and Development (RAiD)_  
+_Innovation & Design Programme | College of Design and Engineering | National University of Singapore_
+
+</div>
 
 ---
+
+### Project Details
+
+_Table 0.1: Project Team and Faculty Supervision Details_
+| Project Team (UGV Focus) | Student ID | Faculty | Supervision |
+| :--- | :--- | :--- | :--- |
+| **Charansagar Ramanujam** | `A0301658E` | Robotics Specilisation |**Dr Tang Kok Zuea**|
+| **Arun** | `--------` | College of Design and Engineering |**Dr Tang Kok Zuea** |
+| **Talitha** | `------------` | College of Design and Engineering |**Dr Tang Kok Zuea** |
+
+
 
 ## 1. Overview
 
