@@ -17,7 +17,7 @@ _Innovation & Design Programme | College of Design and Engineering | National Un
 ### Project Details
 
 _Table 0.1: Project Team and Faculty Supervision Details_
-| Project Team (UGV Focus) | Student ID | Faculty | Supervision |
+| Project Team (UGV Focus) | Student ID | Faculty/Specilisation | Supervision |
 | :--- | :--- | :--- | :--- |
 | **Charansagar Ramanujam** | `A0301658E` | Robotics Specilisation |**Dr Tang Kok Zuea**|
 | **Arun** | `--------` | College of Design and Engineering |**Dr Tang Kok Zuea** |
