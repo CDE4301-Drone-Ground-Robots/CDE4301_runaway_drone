@@ -103,6 +103,41 @@ We use these as **rough benchmarks**, not as a spec to replicate — our scaled-
 
 ## 6. Individual Scopes 
 
+### Charan — UAV Vision, FOD Detection & UAV–UGV Integration
+
+### Objectives
+- Develop a vision-based system for FOD and anomaly detection.
+- Determine FOD coordinates using vision.
+- Send detected FOD coordinates to the UGV.
+- Integrate LED illumination for low-light inspection.
+
+### Key Responsibilities
+- Prepare and annotate FOD datasets.
+- Train and evaluate FOD/anomaly detection models.
+- Select and integrate RGB and thermal cameras.
+- Develop the image acquisition and detection pipeline.
+- Develop vision-based FOD localisation and coordinate estimation.
+- Develop UAV–UGV communication for transmitting FOD coordinates.
+- Integrate LED illumination for low-light/night inspection.
+- Evaluate detection and localisation accuracy.
+
+### Hardware / Software
+- RGB and thermal cameras
+- LED illumination
+- Jetson Orin NX
+- Python & OpenCV
+- YOLO / PyTorch
+- ROS 2 / UAV–UGV communication
+
+### Expected Deliverables
+- FOD/anomaly detection model and dataset
+- Image acquisition and detection pipeline
+- Vision-based FOD localisation system
+- LED-assisted low-light inspection
+- UAV–UGV communication interface
+- Detection and localisation accuracy evaluation
+- Integrated Detect → Localise → Send Coordinates to UGV workflow
+  
 ## 7. Repository Structure
 
 > Placeholder — update once the repo layout is finalized.
